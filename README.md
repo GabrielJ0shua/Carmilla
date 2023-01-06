@@ -12,5 +12,8 @@
     - Python 3.6 ou superior;
     - Bibliotecas iteration_utilities e pandas;
 
-
+- Sistemas implementados:
+    - Contador de ciclos
+    - Verificação de pares e ímpares
+    - Otimização de geração de números
 
